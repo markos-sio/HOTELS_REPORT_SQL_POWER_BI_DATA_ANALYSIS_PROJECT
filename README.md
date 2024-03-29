@@ -2,10 +2,11 @@ This project entails a comprehensive SQL and Power BI data analysis initiative. 
 
 Within the Power BI framework, the project encompasses two distinct pages, each meticulously designed to address critical inquiries. These inquiries include but are not limited to the following:
 
-Assessing the trajectory of turnover over the specified time span.
-Identifying key customer segments and their respective contributions.
-Analyzing the frequency and impact of cancellations over the years.
-Identifying top-performing hotels based on revenue generation.
-Geographical analysis to discern the origin countries of customers.
-Evaluation of preferred room types, among other pertinent metrics.
+1)Assessing the trajectory of turnover over the specified time span.
+2)Identifying key customer segments and their respective contributions.
+3)Analyzing the frequency and impact of cancellations over the years.
+4)Identifying top-performing hotels based on revenue generation.
+5)Geographical analysis to discern the origin countries of customers.
+6)Evaluation of preferred room types, among other pertinent metrics.
+
 Through a meticulous fusion of SQL data manipulation and Power BI visualization, this project aims to provide actionable insights essential for informed decision-making within the hospitality industry.
